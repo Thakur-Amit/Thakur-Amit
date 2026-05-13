@@ -7,7 +7,8 @@ I am a Computer Science student and a passionate developer specialized in buildi
 - 💻 **Tech Stack:** Java, C, C++, HTML5, CSS3, JavaScript
 - 🛠️ **Projects:** 100+ Web Pages, College Management Systems
 - 📍 **Location:** Mathura, Uttar Pradesh
-- 📧 **Contact:** [atthakur0001@gmail.com ] [thakuramit730t@gmail.com ]
+- 📧 **Contact:** [atthakur0001@gmail.com ] [thakuramit730t@gmail.com ] [thakuramit_cs@icloud.com ]
+
 
 ---
 ### 🌐 Connect with me:
